@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # PiVPN: Trivial OpenVPN setup and configuration
 # Easiest setup and mangement of OpenVPN on Raspberry Pi
+# MY CONTRIBUTION TO DO THIS INSTALLATION ON AN ORANGE PI ZERO
 # http://pivpn.io
 # Heavily adapted from the pi-hole.net project and...
 # https://github.com/StarshipEngineer/OpenVPN-Setup/
